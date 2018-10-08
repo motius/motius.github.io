@@ -4,23 +4,21 @@
 
 ## Mission Statement
 
-Motius is committed to open source. We want to push the open source community regardless of whether Motius directly benefits from it - we all use OSS code, so we should give back! Open source software and hardware is an integral part of your daily business, whether you realize it or not. It's in the cloud, in your phone, in your car and in your homes. All of it provided by individuals and organizations that care and want to lend out their expertise to our community free of charge.
+Our mission is to enable talented Techies to have the biggest possible impact on the world and with that create the maximum value for our clients. As a R&D company, we constantly explore and create new tech products from every field to always stay at the cutting edge of technology.  Motius believes that growth can only be achieved by enabling people, providing the necessary infrastructure and share knowledge with each other.
 
-Enterprises of all sizes not only use open source software but publish and contribute to such projects daily. There are many ways to contribute, so scroll down to learn more.
+Open source software and hardware is an integral part of your daily business, whether you realize it or not.  It’s in the cloud, in your phone, in your car and in your homes. All of it provided by individuals and organizations that care and want to lend out their expertise to our community free of charge. That's why we want to push the open source community regardless of whether Motius directly benefits from it - we all use OSS code, so we should give back!
 
 ## What is this page about?
 
-The idea is to curate and promote the open source work of our whole team - ELU projects, client projects but also _private_ repositories from our team. If a team member is active in the open source community, he or she should get credit for it! We are proud of this work and want to share it with you.
+Working with emerging tech is our day-to-day job. As our team loves and contributes the open source community, we decided to gather their work and give a platform a curation of our work.  
+
+The idea is to promote the open source work of our whole team - ELU projects, client projects but also curated private repositories from our team members. If a team member is active in the open source community, he or she should get credit for it! We are proud of this work and want to share it with you.
 
 ## What is ELU?
 
-Every 6 months, we ask our Motees about what they would like to learn. The only condition is that it should be a tech or approach that isn’t older than a year.
-
-Then we reserve a whole Friday every two weeks to learn those things in teams. This lasts for 6 months, The application here is not important, it is about the tech. We then go to mountains and spend a weekend finalizing our products.
-
-We come back and start over.
-
-To learn more about our culture click [here](https://www.motius.de/en/talents-culture/).
+ELU is our company-wide method for innovation and further education. Every 6 months, we ask our Motees about what new stuff they would like to learn. The only condition is that it should be a technology or approach that isn’t older than a year.
+Every second Friday, we block the whole day and tike time to learn those things in teams. Here, the actual application of the technology in a project is not important, it is all about discovering new tech. This lasts for 6 months. Once we're done, we go to mountains and spend a weekend finalizing our products and presenting stuff that we learned to the rest of our team.
+Once we come back, we start over.
 
 ## Our current repositories
 
@@ -32,7 +30,7 @@ To learn more about our culture click [here](https://www.motius.de/en/talents-cu
 
 ## Some cool private projects from our team
 
-So, here it goes in no particular order (you are all awesome):
+In their freetime, our people do their own projects and actively take part in the open source community. So we curated some of the work - here it goes (in no particular order because you are all awesome):
 
 - [Webexcel](https://github.com/michaelneu/webxcel): one of the crazier ones! _Webxcel creates a full-fledged RESTful web backend from your Microsoft Excel workbooks. It is written in 100% plain Visual Basic macros and comes with a lot of handy tools to help you build the next big thing._
 - [test-genie](https://github.com/tech4242/test-genie): group effort from an ELU team. _A small Go server to help you unit test your frontend by fetching "real" mock data from your live server. The whole point is to let you unit test your frontend with up-to-date data instead of static json files in your frontend code._
