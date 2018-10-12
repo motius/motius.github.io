@@ -32,6 +32,7 @@ Once we come back, we start over.
 
 In their freetime, our people do their own projects and actively take part in the open source community. So we curated some of the work - here it goes (in no particular order because you are all awesome):
 
+- [micropython-IMU](https://github.com/micropython-IMU): A collection of device drivers and modules for attitude determination and navigation.
 - [Webexcel](https://github.com/michaelneu/webxcel): one of the crazier ones! _Webxcel creates a full-fledged RESTful web backend from your Microsoft Excel workbooks. It is written in 100% plain Visual Basic macros and comes with a lot of handy tools to help you build the next big thing._
 - [test-genie](https://github.com/tech4242/test-genie): group effort from an ELU team. _A small Go server to help you unit test your frontend by fetching "real" mock data from your live server. The whole point is to let you unit test your frontend with up-to-date data instead of static json files in your frontend code._
 - [hackatum-windowsIotCamera](https://github.com/Hustenbonbon/hackatum-windowsIotCamera): old but gold from HackaTUM 2016. _Windows IoT background app for raspberry pi. It uses an ultrasonic sensor, a DHT11 for humidity and temperature and a webcam to take pictures_
